@@ -2,4 +2,4 @@
 addressComponent
 
 
-a simple form with fect api call
+a simple form with fetch api call
